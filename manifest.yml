@@ -1,6 +1,0 @@
----
-applications:
-- name: Hello-Ninjas
-  memory: 128M
-  domain: de.mhp
-  timeout: 60
